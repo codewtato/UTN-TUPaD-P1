@@ -4,7 +4,7 @@
 
 ## ✨ Estudiante  
 - **Nombre:** Bruselario, Sebastián *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-7 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Comisión:** M2025-12 *[Modificar con su comisión, donde 7 es el número de comisión]*  
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
